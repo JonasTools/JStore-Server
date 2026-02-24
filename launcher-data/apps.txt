@@ -1,1 +1,1 @@
-Jonas Appraisal|%20JonasAppraisal|1.0|https://jonastools.github.io/JStore-Server/launcher-data/%20JonasAppraisal/Jonas%20Appraisal.exe|||Appraisal helper tool.
+Jonas Appraisal|%20JonasAppraisal|1.0|https://JonasTools.github.io/JStore-Server/launcher-data/%20JonasAppraisal/Jonas%20Appraisal.exe|||Appraisal helper tool.
